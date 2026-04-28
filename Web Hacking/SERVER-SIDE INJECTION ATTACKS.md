@@ -1,3 +1,4 @@
+lab: https://github.com/Audi-1/sqli-labs
 #  SQL INJECTION
 - <font color="#ffc000">Bản chất:</font> Change input -> change backend SQL statement -> control the database.## Classification of SQL Injection
 - In-band: 
@@ -36,7 +37,7 @@ http://172.10.10.134:8080/Less-2/?id=1 order by 3
 # UNION SELECT NULL,NULL,NULL
 http://172.10.10.134:8080/Less-2/?id=1+UNION+SELECT+NULL,NULL,NULL
 
---> dữ liệu hiển thị ok -> có 3 cột
+--> The data is displayed correctly -> there are 3 columns.
 ```
 
 - <font color="#ffc000">Determining the Vulnerable Columns: </font>
