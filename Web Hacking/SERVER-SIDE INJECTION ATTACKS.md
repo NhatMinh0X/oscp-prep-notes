@@ -1,6 +1,8 @@
-lab: https://github.com/Audi-1/sqli-labs
+
 #  SQL INJECTION
-- <font color="#ffc000">Bản chất:</font> Change input -> change backend SQL statement -> control the database.## Classification of SQL Injection
+lab: https://github.com/Audi-1/sqli-labs
+
+- <font color="#ffc000">Nature:</font> Change input -> change backend SQL statement -> control the database.## Classification of SQL Injection
 - In-band: 
 ## SQL Injection Techniques
 
