@@ -1,5 +1,3 @@
-link: https://github.com/wisec/domxsswiki/wiki
-link: https://domgo.at/cxss/example/1
 ## Sources
 - source = **user-controlled input**
 - This is the "entry point" of the payload.
@@ -40,3 +38,6 @@ document.getElementById("output").innerHTML = userInput;
 // If userInput comes from Source --> xss
 ```
 
+##  References
+-  https://github.com/wisec/domxsswiki/wiki
+-  https://domgo.at/cxss/example/1
